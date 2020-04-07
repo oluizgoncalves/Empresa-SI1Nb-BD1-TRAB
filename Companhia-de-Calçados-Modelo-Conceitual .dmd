@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Companhia-de-Calçados-Modelo-Conceitual " id="98AA8902-DE36-75B3-01A7-F6746180A0B0" version="3.5">
+<createdBy>Pichau</createdBy>
+<createdTime>2020-03-10 18:52:44 UTC</createdTime>
+<ownerDesignName>base de dado ex1</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>98AA8902-DE36-75B3-01A7-F6746180A0B0</designId>
+</OSDM_Design>
