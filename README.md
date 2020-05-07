@@ -17,4 +17,4 @@ Os vendedores ganham comissão por toda e qualquer venda feita, e os agentes de 
 
 Relatórios com muitas informações são lançados regularmente a toda filial.
 
-Cada filial da companhia de calçados dispõe de um estoque próprio, o qual possuí vários tipos de modelo e tamanhos de calçado em grande quantidade, todavia é necessário controlar a quantidade de produtos em estoque afim de saber o momento de reabastecê-lo. Sendo assim, ao realizar cada venda, o estoque é atualizado. 
+Cada filial da companhia de calçados dispõe de um estoque próprio, o qual possuí vários tipos de modelos e tamanhos de calçados em grande quantidade, todavia é necessário controlar a quantidade de produtos em estoque afim de saber o momento de reabastecê-lo. Sendo assim, ao realizar cada venda, o estoque é atualizado. 
